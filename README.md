@@ -1,9 +1,8 @@
 
 # IBM Container Orchestration Workshop
 
-Updated in May 2020
-
-![img](images/image-20181018184328603.png)
+Updated in December 2020
 
 
 
+![image-20201207185638029](images/image-20201207185638029.png)
